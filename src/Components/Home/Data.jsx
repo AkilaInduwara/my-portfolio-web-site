@@ -8,7 +8,7 @@ const Data = () => {
 
       <h3 className="home_subtitle">Undergraduate | B.Sc. (Hons) Computer Science & Software Engineering</h3>
 
-      <p className="home_description"></p>
+      <p className="home_description">Seeking opportunities to make a meaningful impact. Let's connect and explore exciting prospects in the tech industry.</p>
 
       <a href="#contact" className="button button--flex">
         Say Hello
