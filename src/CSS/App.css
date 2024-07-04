@@ -200,8 +200,16 @@ img{
 
 /* for medium devices */
 @media screen and (max-width: 768px) {
+    body {
+        margin: 0 0 var(--header-height) 0;
+    }
+
     .section {
         padding: 2rem 0 4rem;
+    }
+
+    .section_subtitle {
+        margin-bottom: var(--mb-3);
     }
 }
 
@@ -225,4 +233,4 @@ img{
 }
 
 
-/* Time stamp : 59:29 */
+/* Time stamp : 1:14:12 */
